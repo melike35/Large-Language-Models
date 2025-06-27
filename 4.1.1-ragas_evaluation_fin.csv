@@ -1,0 +1,3 @@
+user_input,retrieved_contexts,response,reference,faithfulness,answer_correctness
+When was the first super bowl?,"['The first AFL-NFL World Championship Game was an American footbal game played on January 15, 1967']","The first superbowl was held on Jan 15, 1967","The first superbowl was held on January 15, 1967",1.0,
+Who won the most super bowls?,['The New England Patriots have won the Super Bowl a record six times'],The most super bowls have been won by The New England Patriots,The New England Patriots have won the Super Bowl a record six times,1.0,
